@@ -1,6 +1,6 @@
 I was previously in the full time boot camp and submitted this assignment,
 it was graded and then I transferred to the part time course and the assignment is
-due again so the code will be in the system under my name.
+due again so the previous code will be in the system under my name.
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
