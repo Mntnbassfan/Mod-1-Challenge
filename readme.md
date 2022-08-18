@@ -1,17 +1,3 @@
-# Horiseon Company Website
-
-Our company provides our clients with high performance search engine optimization, online reputation management and social media marketing.
-
-## Project URL
-
-https://github.com/Mntnbassfan/Mod-1-Challenge
-
-## Deployment
-
-https://mntnbassfan.github.io/Mod-1-Challenge/
-
-## User Story
-
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -26,6 +12,22 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+# Horiseon Company Website
+
+Our company provides our clients with high performance search engine optimization, online reputation management and social media marketing.
+
+## Project URL
+
+https://github.com/Mntnbassfan/html-css-refactor
+
+## Deployment
+
+https://mntnbassfan.github.io/html-css-refactor/
+
+## Project Notes
+
+Refactored an existing webpage for client to make it more accessible.
 
 ## Design Notes
 
