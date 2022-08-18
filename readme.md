@@ -2,16 +2,6 @@
 
 Our company provides our clients with high performance search engine optimization, online reputation management and social media marketing.
 
-## Project URL
-
-https://github.com/johnsonr84/code-quiz-challenge
-
-## Deployment
-
-https://johnsonr84.github.io/code-quiz-challenge/
-
-## Project Notes
-
 Refactored an existing webpage for client to make it more accessible.
 
 ## Design Notes
