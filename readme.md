@@ -18,9 +18,7 @@ Refactored an existing webpage for client to make it more accessible.
 
 Always leave the code you are editing a little cleaner than you found it!
 
-## Screenshot(s)
-
-<img src="./assets/01-html-css-git-homework-demo.png"/>AS A marketing agency
+AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 GIVEN a webpage meets accessibility standards
